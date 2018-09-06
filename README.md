@@ -1,4 +1,4 @@
-# Front-end Nanodegree Project 6 - Feed Reader Testing
+# Front-end Nanodegree Project - Feed Reader Testing
 This project tested my ability to use a testing suite, like Jasmine, to validate my code. We started with a Feed Reader App and were required to write test spec in Jasmine.
 
 ## Steps to run application
